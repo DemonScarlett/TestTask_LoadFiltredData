@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask_LoadFiltredData", "TestTask_LoadFiltredData\TestTask_LoadFiltredData.csproj", "{1A655FDD-9CF0-4577-8417-DE07DE32F872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A655FDD-9CF0-4577-8417-DE07DE32F872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A655FDD-9CF0-4577-8417-DE07DE32F872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A655FDD-9CF0-4577-8417-DE07DE32F872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A655FDD-9CF0-4577-8417-DE07DE32F872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB0D8F8-3004-47EE-8882-1364C5625163}
+	EndGlobalSection
+EndGlobal
