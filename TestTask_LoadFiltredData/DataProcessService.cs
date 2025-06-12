@@ -10,8 +10,6 @@ namespace TestTask_LoadFiltredData
 {
     internal class DataProcessService
     {
-        //more filters: By post title contains, by company
-
         public List<UsersWithPostsModel> LinkPostsAndUsers(IEnumerable<UserModel> users, IEnumerable<PostModel> posts)
         {
             var result = new List<UsersWithPostsModel>();
